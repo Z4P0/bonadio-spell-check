@@ -1,0 +1,135 @@
+
+
+
+
+
+
+Careers
+Why Bonadio
+Internships
+The Bonadio Promise
+Campus Recruiting Schedule
+Current Openings
+
+ 
+
+ 
+
+
+<!--//--><![CDATA[// ><!--
+(function() {
+
+  var _fbq = window._fbq || (window._fbq = []);
+
+  if (!_fbq.loaded) {
+
+    var fbds = document.createElement('script');
+
+    fbds.async = true;
+
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+
+    var s = document.getElementsByTagName('script')[0];
+
+    s.parentNode.insertBefore(fbds, s);
+
+    _fbq.loaded = true;
+
+  }
+
+})();
+
+window._fbq = window._fbq || [];
+
+window._fbq.push(['track', '6023478526392', {'value':'0.00','currency':'USD'}]);
+
+
+//--><!]]>
+
+
+
+
+
+
+
+
+
+Home >> Careers >> Internships
+ 
+
+
+
+
+
+
+
+
+Internships Get the opportunity to learn about the complexity of our services first hand.
+ 
+
+
+
+
+
+
+
+
+
+
+Our clients are a combination of privately held or public companies, tax exempt organizations, or government entities, who are all challenged by an array of revenue and funding pressures, ever-increasing demands for internal control, increasingly onerous compliance requirements and the ever-present need for sound financial and operating management practices. What great circumstances to learn our craft!
+When you participate in our paid internship program, you get the opportunity to learn about the complexity of our services first hand. You'll have a chance to choose your internship option based on office need and your availability.   
+
+
+
+
+
+Take a look at our internship opportunities, fill out an applicaiton online, send us your resume, or call us at (800) 487-7624, if you'd like to be part of the Bonadio team.
+Campus Recruiting Schedule Apply Now
+
+
+
+
+
+
+Experience a Bonadio Internship!
+Choose your internship focus- Tax in busy season (Jan – April) or Audit as a summer intern (June- August)
+Participate in a comprehensive orientation program
+Have an assigned mentor and performance coach
+Be invited to participate in special social and community activities
+Be one of the team--participate and be engaged
+Receive a constructive evaluation at the end of your program
+Experience the Bonadio Difference
+Previous interns shared about their opportunity to actively and personally be part of this learning experience.
+
+
+“I was very impressed with how developed the internship program is. I had no idea I would get to go into the field and actually get ‘real experience”.
+
+
+ 
+
+
+“My team always had good advice about how to work more efficiently and smartly. They not only explained the tasks that I was given, but they challenged me to think about the objective of the task which really increased my understanding.”
+
+
+ 
+
+
+“I would recommend this internship to any of my classmates. The skills learned and knowledge gained has given me the confidence I need to face the challenging profession.”
+
+
+ 
+
+
+“The staff and team were very welcoming and friendly. Although they were in one of their busiest season, they always found time to answer my questions or explain accounting concepts that were new to me.”
+
+
+Interested in an Internship at The Bonadio Group? We want to hear from you!
+
+
+
+
+
+
+
+
+

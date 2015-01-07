@@ -1,0 +1,47 @@
+Pages to scrape:
+['http://www.bonadio.com/', 'http://www.bonadio.com/careers/why-bonadio', 'http://www.bonadio.com/careers/bonadio-promise', 'http://www.bonadio.com/careers/internships']
+scrpaing page..http://www.bonadio.com/
+spellcheck
+no #main-left-sidebar
+check_for_links
+scrpaing page..http://www.bonadio.com/careers/why-bonadio
+spellcheck
+ERROR: BonadioWhy
+ERROR: BonadioAdvance
+ERROR: CareersWhether
+ERROR: Bonadio
+ERROR: Bonadio
+ERROR: Bonadio
+ERROR: youTake
+ERROR: atcareers
+ERROR: bonadio
+ERROR: Bonadio
+ERROR: OpeningsApply
+check_for_links
+scrpaing page..http://www.bonadio.com/careers/bonadio-promise
+spellcheck
+ERROR: Bonadio
+ERROR: PromiseThe
+ERROR: Bonadio
+ERROR: PromiseOur
+ERROR: EmployeesThe
+ERROR: Bonadio
+ERROR: Bonadio
+check_for_links
+scrpaing page..http://www.bonadio.com/careers/internships
+spellcheck
+ERROR: InternshipsInternshipsGet
+ERROR: applicaiton
+ERROR: Bonadio
+ERROR: ScheduleApply
+ERROR: NowExperience
+ERROR: Bonadio
+ERROR: programHave
+ERROR: coachBe
+ERROR: activitiesBe
+ERROR: engagedReceive
+ERROR: programExperience
+ERROR: Bonadio
+ERROR: DifferencePrevious
+ERROR: Bonadio
+check_for_links

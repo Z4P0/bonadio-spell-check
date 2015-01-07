@@ -1,0 +1,34 @@
+Pages to scrape:
+['http://www.bonadio.com/', 'http://www.bonadio.com/careers/why-bonadio', 'http://www.bonadio.com/careers/bonadio-promise', 'http://www.bonadio.com/careers/internships', 'http://www.bonadio.com/lol']
+this
+<type 'str'>
+ERROR: Bonadio
+ERROR: Bonadio
+ERROR: CDATA
+ERROR: fbq
+ERROR: fbq
+ERROR: fbq
+ERROR: fbq
+ERROR: fbds
+ERROR: createElement
+ERROR: fbds
+ERROR: async
+ERROR: fbds
+ERROR: src
+ERROR: facebook
+ERROR: fbds
+ERROR: js
+ERROR: getElementsByTagName
+ERROR: parentNode
+ERROR: insertBefore
+ERROR: fbds
+ERROR: fbq
+ERROR: fbq
+ERROR: fbq
+ERROR: fbq
+ERROR: USD
+ERROR: applicaiton
+ERROR: Bonadio
+ERROR: Bonadio
+ERROR: Bonadio
+ERROR: Bonadio
